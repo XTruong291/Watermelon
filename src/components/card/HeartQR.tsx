@@ -100,7 +100,7 @@ export function HeartQR({ url, recipientName }: HeartQRProps) {
 
           ctx.fillStyle = "#881337"
           ctx.font = "italic 24px serif"
-          ctx.fillText("Happy Women's Day!", W / 2, heartCy + 220)
+          ctx.fillText("Happy my Love", W / 2, heartCy + 220)
 
           const miniScale = 0.3
           const miniPositions = [
@@ -115,7 +115,7 @@ export function HeartQR({ url, recipientName }: HeartQRProps) {
 
           ctx.fillStyle = "#a8a29e"
           ctx.font = "16px sans-serif"
-          ctx.fillText("by NirussVn0", W / 2, H - 20)
+          ctx.fillText("by Xtruong", W / 2, H - 20)
 
           setIsReady(true)
           resolve()
