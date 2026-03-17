@@ -115,7 +115,7 @@ export function HeartQR({ url, recipientName }: HeartQRProps) {
 
           ctx.fillStyle = "#a8a29e"
           ctx.font = "16px sans-serif"
-          ctx.fillText("by Xtruong", W / 2, H - 20)
+          ctx.fillText("by Xtruong DEV", W / 2, H - 20)
 
           setIsReady(true)
           resolve()

@@ -36,7 +36,7 @@ export function BrandWatermark({ show }: { show: boolean }) {
     >
       <PiSparkleFill className="text-rose-500 w-5 h-5 shrink-0" />
       <span>
-        Điều bất ngờ bởi <strong className="text-rose-500">người nào đó ở Sầm Sơn (không phải Xtr đâu)</strong>
+        Điều bất ngờ bởi <strong className="text-rose-500">người nào đó ở Sầm Sơn</strong>
       </span>
     </a>
   )

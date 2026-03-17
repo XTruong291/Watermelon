@@ -156,14 +156,14 @@ export function EnvelopeScene({ onOpenLetter, recipientName }: EnvelopeSceneProp
         />
         <text className="svg-heart-text" dy="-3" fill="#e6668a" fontSize="8" style={{ fontFamily: "var(--font-cursive), 'Dancing Script', cursive", opacity: 0 }}>
           <textPath xlinkHref="#heartShapePath" startOffset="5%">
-            🌹 Happy Women&apos;s Day 🌹 ················· 🌹 From {recipientName} With Love 8/3! 🌹
+            🌹 Happy Your Day 🌹 ················· 🌹 From {recipientName} With Love  🌹
           </textPath>
         </text>
       </svg>
 
       <div className="relative z-10" style={{ width: 300, height: 320 }}>
         <div className="env-valentines relative cursor-pointer" style={{ top: 50 }} onClick={onOpenLetter}>
-          
+
           <div className="env-hearts">
             <div className="env-float-heart env-h-one"></div>
             <div className="env-float-heart env-h-two"></div>
@@ -198,7 +198,7 @@ export function EnvelopeScene({ onOpenLetter, recipientName }: EnvelopeSceneProp
                 lineHeight: "25px", top: 19, left: 85,
                 fontFamily: "'Brush Script MT', cursive",
               }}>
-                Happy<br />Women&apos;s<br />Day!
+                Happy<br />Your&apos;s<br />Day!
               </p>
               <div className="env-big-heart"></div>
             </div>

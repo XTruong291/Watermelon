@@ -78,7 +78,7 @@ export function CardView({ recipientName, message, theme = "catch-me", recipient
                   <PiFlowerTulipFill className="w-10 h-10 text-rose-500" />
                 </div>
                 <h2 className="text-3xl sm:text-4xl font-serif font-bold text-stone-900 mb-3 leading-snug">
-                  Chi Chi đã sẵn sàng cho<br />
+                  Bạn đã sẵn sàng cho<br />
                   <span className="text-rose-500">bất ngờ </span> chưa?
                 </h2>
                 <p className="text-stone-500 mb-10 text-base">
@@ -107,7 +107,7 @@ export function CardView({ recipientName, message, theme = "catch-me", recipient
                   <PiGiftFill className="w-8 h-8 text-rose-500" />
                 </div>
                 <h2 className="text-2xl sm:text-3xl font-serif font-bold text-stone-900 mb-2">
-                  Bạn có muốn nhận<br/>lời chúc đặc biệt không?
+                  Bạn có muốn nhận<br />lời chúc đặc biệt không?
                 </h2>
                 <p className="text-stone-400 text-sm mb-12">
                   Thử bấm &quot;Không&quot; xem nào

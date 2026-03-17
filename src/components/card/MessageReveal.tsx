@@ -101,7 +101,7 @@ export function MessageReveal({ recipientName, message, senderName, recipientIma
 
       <div className="relative z-10 text-center max-w-2xl mx-auto w-full">
         <p className="reveal-subtitle text-rose-400 font-medium mb-3 text-sm tracking-widest uppercase" style={{ opacity: 0 }}>
-          Happy 150 DAY
+          Happy happy
         </p>
 
         {recipientImage && (
