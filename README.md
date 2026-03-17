@@ -1,18 +1,18 @@
-# 💐 NirussVn0 Dev — Thiệp 8/3
+# 💐 Xtruong Dev 
 
 <div align="center">
 
-![NirussVn0 Dev](https://img.shields.io/badge/NirussVn0_Dev-Thiệp_8/3-FF6B81?style=for-the-badge&logo=heart&logoColor=white)
+
 [![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Anime.js](https://img.shields.io/badge/Anime.js-4-FF6B6B?style=for-the-badge)](https://animejs.com/)
 [![Tailwind](https://img.shields.io/badge/Tailwind-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](./LICENSE)
 
-**Tạo thiệp chúc mừng Ngày Phụ nữ 8/3 với hiệu ứng đẹp mắt** 🌹
+
 
 Hoa rơi · Phong bì bay · Nhạc nền · Mã QR trái tim · Typewriter text
-Developed by **[NirussVn0](https://github.com/NirussVn0)**.
+
 
 [Tính năng](#-tính-năng) • [Cài đặt](#-cài-đặt) • [Cấu trúc](#-cấu-trúc-project) • [Đóng góp](#-đóng-góp) • [English](./README_EN.md)
 
@@ -157,4 +157,4 @@ women-day-bloom-card/
 
 Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
 
-Copyright © 2026 **[NirussVn0](https://github.com/NirussVn0)**.
+
