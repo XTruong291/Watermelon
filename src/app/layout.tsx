@@ -21,6 +21,9 @@ const dancingScript = Dancing_Script({
 export const metadata: Metadata = {
   title: "Xtruong DEV - thiệp chúc",
   description: "Tạo thiệp chúc mừng đẹp mắt, gửi bất ngờ cho người đặc biệt!",
+  icons: {
+    icon: '/favicon.png'
+  },
   openGraph: {
     title: "XTruong DEV ",
     description: "Ai đó đã gửi cho bạn một món quà bất ngờ!",
