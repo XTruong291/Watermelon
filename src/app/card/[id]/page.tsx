@@ -12,10 +12,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const card = await fetchCard(id)
   
   return {
-    title: card ? `Lời chúc cho ${card.recipientName} ✿` : "NirussVn0 Dev",
-    description: card ? "Ai đó đã gửi cho bạn một bất ngờ ngày 8/3!" : "Không tìm thấy thiệp.",
+    title: card ? `Lời chúc cho ${card.recipientName} ✿` : "Xtruong Dev",
+    description: card ? "Ai đó đã gửi cho bạn một bất ngờ " : "Không tìm thấy thiệp.",
     openGraph: {
-      title: card ? `🌷 ${card.recipientName}, bạn có bất ngờ!` : "NirussVn0 Dev",
+      title: card ? `🌷 ${card.recipientName}, bạn có bất ngờ!` : "Xtruong Dev",
       description: "Mở ra để xem lời chúc đặc biệt dành cho bạn ✿",
     },
   }
